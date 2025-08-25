@@ -1,6 +1,6 @@
 # CS-230-14614-M01--the-gaming-room
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-The Gaming Room Client is working on a new guessing game that will be accessible across multiple device types and operating systems. To ensure smooth gameplay across platforms, the application must be built with cross-compatibility in mind, enabling real-time communication between different systems. The software will also need to handle user account management, including storing player data securely.
+The Gaming Room Client is working on a new guessing game (draw it or lose it) that will be accessible across multiple device types and operating systems. To ensure smooth gameplay across platforms, the application must be built with cross-compatibility in mind, enabling real-time communication between different systems. The software will also need to handle user account management, including storing player data securely.
 
 What did you do particularly well in developing this documentation?
 I think my evaluations were very well done and had a lot of time put in.
